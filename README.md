@@ -4,6 +4,10 @@ A showcase of cybersecurity projects and skills
 
 Welcome to my professional cybersecurity portfolio. I'm a Computer Science student at Michigan State University with hands-on experience in GRC, threat monitoring, and system integration. I’m actively pursuing CompTIA Security+ and Network+ certifications to deepen my foundation in cybersecurity.
 
+Professional Statement:
+
+I am a cybersecurity enthusiast with hands-on experience in risk assessment, SIEM tools, and Python scripting. I value protecting organizations against emerging threats through ethical practices and continuous learning. My goal is to contribute to secure and resilient systems by aligning my technical strengths with the evolving security needs of businesses.
+
 ---
 
 ## 🔐 About Me
